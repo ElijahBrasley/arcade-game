@@ -28,7 +28,7 @@ map "/wrestlejump" do
 }
 end
 
-map "/shooting.html" do
+map "/shooting" do
   run lambda { |env|
   [
     200, 
